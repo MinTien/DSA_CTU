@@ -55,7 +55,6 @@ int main()
 {
     struct StackNode* root = NULL;
 
-    push(&root, 10);
     push(&root, 20);
     push(&root, 30);
 
